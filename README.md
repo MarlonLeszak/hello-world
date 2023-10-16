@@ -1,3 +1,4 @@
 # hello-world
 Pequenas ideias
-Esses são os meus primeiros codigos
+Esses são meus primeiros códigos
+
